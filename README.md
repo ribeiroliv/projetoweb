@@ -3,7 +3,7 @@
 
 # *projeto*
 SmartWall
-# **equipe** 
+## **equipe** 
 1. Eduardo Carvalho
 2. Lívia Ribeiro
 3. Mª Gabriela Ribeiro
